@@ -1,0 +1,7 @@
+name: CustomJoFt-PM5
+api: 5.0.0
+main: AxelFeL\CustomJoft\Main
+authors: [AxelFeL, RevandDev, RifqyDev]
+version: 1.2
+softdepend: ["PurePerms"]
+description: Customize Join & Quit Message

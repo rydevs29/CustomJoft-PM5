@@ -1,0 +1,29 @@
+---
+# CustomJoFt (Custom Join Left Message) Settings
+# Gunakan {name} untuk menampilkan nama pemain!
+# Gunakan {rank} untuk menampilkan rank pemain!
+
+# Pesan saat pemain masuk, atur ke false untuk menonaktifkan
+join-message: "§f[§a+§f] §a{rank} {name}"
+
+# Title saat pemain masuk, atur ke false untuk menonaktifkan
+join-title: "§l§eWelcome {name}!"
+
+# Subtitle saat pemain masuk, atur ke false untuk menonaktifkan
+join-subtitle: false
+
+# Pesan saat pemain keluar, atur ke false untuk menonaktifkan
+left-message: "§f[§c-§f] §c{rank} {name}"
+  
+# Efek Guardian saat masuk, atur ke false untuk menonaktifkan
+guardian-effect: true
+
+# Default Rank Name jika PurePerms tidak ditemukan
+default-rank-name: "Member"
+
+# Firework saat pemain masuk, atur ke false untuk menonaktifkan
+join-firework: true
+
+# Durasi penerbangan firework (dalam detik)
+flight-duration: 2
+...
