@@ -26,4 +26,3 @@ join-firework: true
 
 # Durasi penerbangan firework (dalam detik)
 flight-duration: 2
-...
