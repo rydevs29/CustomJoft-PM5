@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/rydevs29/CustomJoft-PM5
+build-by-default: true
+branches:
+- main
+projects:
+  CustomJoft-PM5:
+    path: ""
+...
